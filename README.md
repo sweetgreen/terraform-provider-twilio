@@ -1,3 +1,8 @@
+> **Sweetgreen fork.** Published through `registry.sweetgreen.engineering/sweetgreen/twilio` from GitHub
+> releases of this repo, signed with Sweetgreen's provider key (repo secrets `GPG_PRIVATE_KEY` and
+> `GPG_PASSPHRASE`). Releases start at v0.27.2, built from upstream `main` after v0.27.1. Pushing a
+> `v*` tag runs the release workflow.
+
 # Terraform Provider for Twilio
 
 ![Terraform Provider Checks](https://github.com/RJPearson94/terraform-provider-twilio/workflows/Terraform%20Provider%20Checks/badge.svg)
